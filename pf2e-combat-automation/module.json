@@ -1,0 +1,30 @@
+{
+  "name": "pf2e-combat-automation",
+  "title": "Combat Automation and Tracking",
+  "description": "A simple module to track actions in a combat turn, and remove any effects at the end of their turn",
+  "version": "1.0.0",
+  "author": "deadzora",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "10",
+  "scripts": [
+    "scripts/pf2e-combat-automation.js"
+  ],
+  "styles": [
+    "styles/styles.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "packs": [],
+  "esmodules": [],
+  "dependencies": [],
+  "socket": false,
+  "system": [],
+  "manifest": "https://your-repo-url/module.json",
+  "download": "https://your-repo-url/module.zip",
+  "readme": "https://your-repo-url/README.md"
+}

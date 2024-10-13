@@ -1,0 +1,5 @@
+/* Example: Customize notification colors */
+#notifications {
+  color: red;
+  font-weight: bold;
+}
